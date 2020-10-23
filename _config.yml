@@ -1,8 +1,6 @@
 title: "Sivert Bakken's Website"
 email: "sivert.bakken@gmail.com"
-description: >- # this means to ignore newlines until "baseurl:"
- A website to get in contact with me, and
- to see what I have been and am working on.
+description: A website to get in contact with me, and to see what I have been and am working on.
 
 plugins:
   - jekyll-seo-tag
