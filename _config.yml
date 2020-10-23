@@ -22,17 +22,6 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
-mathjax:
-  enable: true             # MathJax equations, e.g. true, false (default)
-  combo: "tex-svg"         # "tex-svg" (default), "tex-mml-chtml", etc.
-  tags: "ams"              # "none", "ams" (default), "all"
-
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 #
 # google_analytics:
@@ -55,19 +44,18 @@ include:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-footer_links:
-  - title: GitHub
-    url: https://github.com/sivertba
-    icon: fab fa-github-square
-  - title: Facebook
-    url: https://www.facebook.com/sivert.bakken/
-    icon: fab fa-facebook
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/sivert-bakken/
-    icon: fab fa-linkedin
-  - title: Mail
-    url: mailto:sivert.bakken@gmail.com
-    icon: fas fa-envelope-square
+twitter:
+  username: ngzhio
+  card: summary
+logo: logo.png
+social:
+  name: Shangzhi Huang
+  links:
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://github.com/ngzhio
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
 
 # Site Author
 author:
