@@ -11,10 +11,10 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-# include:
-#   - _images
-#   - _pdfs
-#   - _posts
+include:
+  - _images
+  - _pdfs
+  - _posts
 
 paginate: 10
 
