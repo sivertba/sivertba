@@ -1,8 +1,15 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+
+title: Sivert Bakken's Website
+email: sivert.bakken@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ A website to get in contact with me, and
+ to see what I have been and am working on.
+site.logo: /_images/sivert.jpg
+avatar: /_images/sivert.jpg
+skin: "/assets/css/skins/default.css"
+date_format: "%Y-%m-%d"
+
+logo: "/_images/sivert.png"
 
 plugins:
   - jekyll-seo-tag
@@ -15,12 +22,23 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
+mathjax:
+  enable: true             # MathJax equations, e.g. true, false (default)
+  combo: "tex-svg"         # "tex-svg" (default), "tex-mml-chtml", etc.
+  tags: "ams"              # "none", "ams" (default), "all"
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
+#
+# google_analytics:
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
+#
 # disqus:
 
 # Jekyll
@@ -30,17 +48,27 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
+include:
+  - _images
+  - _pdfs
+  - _posts
+
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
-logo: logo.png
-social:
-  name: Shangzhi Huang
-  links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+footer_links:
+  - title: GitHub
+    url: https://github.com/sivertba
+    icon: fab fa-github-square
+  - title: Facebook
+    url: https://www.facebook.com/sivert.bakken/
+    icon: fab fa-facebook
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sivert-bakken/
+    icon: fab fa-linkedin
+  - title: Mail
+    url: mailto:sivert.bakken@gmail.com
+    icon: fas fa-envelope-square
+
+# Site Author
+author:
+  name: Sivert Bakken
