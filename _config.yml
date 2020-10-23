@@ -1,7 +1,7 @@
 title: Hamilton
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Shangzhi Huang
-avatar: /logo.png
+avatar: /sivert.png
 email: ngzhio@gmail.com
 
 plugins:
@@ -16,11 +16,11 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
+#
+# google_analytics:
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
+#
 # disqus:
 
 # Jekyll
