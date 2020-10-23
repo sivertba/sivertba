@@ -1,5 +1,5 @@
-title: Sivert Bakken's Website
-email: sivert.bakken@gmail.com
+title: "Sivert Bakken's Website"
+email: "sivert.bakken@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
  A website to get in contact with me, and
  to see what I have been and am working on.
@@ -13,10 +13,10 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-include:
-  - _images
-  - _pdfs
-  - _posts
+# include:
+#   - _images
+#   - _pdfs
+#   - _posts
 
 paginate: 10
 
