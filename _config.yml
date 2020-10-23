@@ -1,15 +1,14 @@
+title: Hamilton
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Shangzhi Huang
+avatar: /_images/sivert.png
+email: ngzhio@gmail.com
 
 title: Sivert Bakken's Website
 email: sivert.bakken@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  A website to get in contact with me, and
  to see what I have been and am working on.
-site.logo: /_images/sivert.jpg
-avatar: /_images/sivert.jpg
-skin: "/assets/css/skins/default.css"
-date_format: "%Y-%m-%d"
-
-logo: "/_images/sivert.png"
 
 plugins:
   - jekyll-seo-tag
@@ -19,6 +18,11 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: ngzhio/jekyll-theme-hamilton
+
+include:
+  - _images
+  - _pdfs
+  - _posts
 
 paginate: 10
 
@@ -37,11 +41,6 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-include:
-  - _images
-  - _pdfs
-  - _posts
-
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
@@ -56,7 +55,3 @@ social:
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
-
-# Site Author
-author:
-  name: Sivert Bakken
