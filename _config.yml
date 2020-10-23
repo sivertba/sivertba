@@ -62,8 +62,9 @@ footer_links:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - github-pages
 
-remote_theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 include:
   - _images
