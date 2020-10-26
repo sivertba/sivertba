@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 ### 2020
-E. Honoré-Livermore, E. F. Prentice, & S. Bakken, 
+- E. Honoré-Livermore, E. F. Prentice, & S. Bakken, 
 [FACTORS INFLUENCING THE DEVELOPMENT TIME FROM TRL4 TO TRL8 FOR CUBESAT SUBSYSTEMS AT A UNIVERSITY]({% link _pdfs/TRL_DEV_SECESA.pdf %})
 
 - S. Bakken, J. Wei, Z. Lee, G. Johnsen, T. A. Johansen, J. Montoya, A. Subramaniam,
