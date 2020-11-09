@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google scholar publication statistics](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
+[{% a_svg google-scholar %}](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
 
 
 ### 2020
