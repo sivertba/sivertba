@@ -63,6 +63,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - github-pages
+  - jekyll-academicons-svg
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
