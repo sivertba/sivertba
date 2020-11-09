@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+{% a_svg_generate %}
 ---
 
 [{% a_svg google-scholar %}](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
