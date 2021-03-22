@@ -7,6 +7,22 @@ permalink: /publications/
 
 [{% a_svg google-scholar %}](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
 
+### 2021
+
+- M. E. Grøtte, R. Birkeland, E. Honoré-Livermore, S. Bakken, J. L. Garrett, E. F. Prentice, F. Sigernes, M. Orlandic, J. T. Gravdahl, T. A. Johansen, 
+[Ocean Color Hyperspectral Remote Sensing with High Resolution and Low Latency - the HYPSO-1 CubeSat Mission](https://folk.ntnu.no/torarnj/public.html), 
+IEEE Trans. Geoscience and Remote Sensing, 2021
+
+- S. Bakken, G. Johnsen, T. A. Johansen, [Analysis and model development of direct hyperspectral Chlorophyll-a estimation for remote sensing satellites](https://folk.ntnu.no/torarnj/WHISPERS_2021_Direct_chl_a.pdf), 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+
+- A. Oudijk, F. Sigernes, H. Mulders, S. Bakken, T. A. Johansen, [Quality assessment of standard video compression techniques applied to hyperspectral data cubes](https://folk.ntnu.no/torarnj/Version12-03-2021_HSI_V6.pdf), 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+
+- O. M. Borge, S. Bakken, T. A. Johansen, [Atmospheric correction of hyperspectral data over coastal waters based on machine learning models](https://folk.ntnu.no/torarnj/WHISPERS_2021_AC.pdf), 11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+
+- J. Garrett, S. Bakken, E. Prentice, D. Langer, F. Leira, E. Honoré-Livermore, R. Birkeland, M. Grøtte, T. A. Johansen, M. Orlandić, 
+[Hyperspectral Image Processing Pipelines on Multiple Platforms for Coordinated Oceanographic Observation](https://folk.ntnu.no/torarnj/Hyperspectral_Image_Processing_Pipelines_on_Multiple_Platforms_for_Coordinated_Oceanographic_Observation.pdf), 
+11th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021
+
 
 ### 2020
 - E. Honoré-Livermore, E. F. Prentice, & S. Bakken, 
