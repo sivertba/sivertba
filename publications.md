@@ -6,6 +6,7 @@ permalink: /publications/
 ---
 
 [Google scholar publication statistics](https://scholar.google.no/citations?user=XeDtzHEAAAAJ&hl=en)
+<!---
 
 ### 2021
 
@@ -58,3 +59,5 @@ Master thesis, 2018
 - S. Bakken,
 [Radiometric calibration of ocean color remote sensing instruments]({% link _pdfs/sivert_project.pdf %}),
 Project thesis, 2017
+
+--->
