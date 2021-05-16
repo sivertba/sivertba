@@ -25,7 +25,7 @@ IEEE Trans. Geoscience and Remote Sensing, 2021
 
 ### 2020
 - E. Honoré-Livermore, E. F. Prentice, & S. Bakken, 
-[FACTORS INFLUENCING THE DEVELOPMENT TIME FROM TRL4 TO TRL8 FOR CUBESAT SUBSYSTEMS AT A UNIVERSITY]({% link _pdfs/TRL_DEV_SECESA.pdf %})
+[FACTORS INFLUENCING THE DEVELOPMENT TIME FROM TRL4 TO TRL8 FOR CUBESAT SUBSYSTEMS AT A UNIVERSITY]({https://www.researchgate.net/profile/Evelyn-Honore-Livermore/publication/344609171_FACTORS_INFLUENCING_THE_DEVELOPMENT_TIME_FROM_TRL4_TO_TRL8_FOR_CUBESAT_SUBSYSTEMS_AT_A_UNIVERSITY/links/5f842edf458515b7cf79f708/FACTORS-INFLUENCING-THE-DEVELOPMENT-TIME-FROM-TRL4-TO-TRL8-FOR-CUBESAT-SUBSYSTEMS-AT-A-UNIVERSITY.pdf})
 
 - S. Bakken, J. Wei, Z. Lee, G. Johnsen, T. A. Johansen, J. Montoya, A. Subramaniam,
 [Hyperspectral Remote Sensing of the Amazon River Plume]({% link _pdfs/os_poster.pdf %}),
