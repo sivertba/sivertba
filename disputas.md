@@ -6,13 +6,12 @@ permalink: /disputas/
 
 ## Timeplan
 
-| Hva              | Tidsrom     | Kommentar                       | Kleskode* |
+| Hva              | Tidsrom     | Hvor                       | Kleskode* |
 |------------------|-------------|---------------------------------|----------|
-| Prøveforelesning | 10.15-11.30 | Prøveforelesning om ukjent tema | Mørk dress/ Pent antrekk|
-| Pause            | 11.30-13.15 | Tid fram til forsvar            |          |
-| Disputas         | 13.15-14.45 | Forsvar av avhandling           | Mørk dress / Smoking / Galla / Bunad |
-| Disputasmiddag   | 18.00-21.00 | Kun inviterte                   | Mørk dress / Smoking         |
-| Etterfest        | 21.00-      |                                 | Mørk dress / Pent antrekk    |
+| Prøveforelesning | 10.15-11.30 | Hovedbygningen Gløshaugen, Høgskoleringen 1, auditorium Disputasrommet  | Mørk dress/ Pent antrekk|
+| Disputas         | 13.15-14.45 | Hovedbygningen Gløshaugen, Høgskoleringen 1, auditorium Disputasrommet  | Mørk dress / Smoking / Galla / Bunad |
+| Disputasmiddag (kun inviterte) | 18.00-21.00 | Restaurant Troll, Fosenkaia 4A| Mørk dress / Smoking         |
+| Etterfest        | 21.00-      | ikke kjent  | Mørk dress / Pent antrekk    |
 
 \* Brukes kleskoder slik de er definert på https://no.wikipedia.org/wiki/Kleskode.
 
