@@ -10,3 +10,7 @@ permalink: /disputas/
 |------------------|-------------|---------------------------------|
 | Prøveforelesning | 10.15-11.30 | Prøveforelesning om ukjent tema |
 | Puase            | 11.30-13.15 | Tid fram til forsvar            |
+
+## Thesis
+Here the thesis will be made available.
+A link to the presentation used during the defence is also given here.
