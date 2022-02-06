@@ -14,10 +14,10 @@ permalink: /disputas/
 | Disputasmiddag   | 18.00-21.00 | Kun inviterte                   | Mørk dress / Smoking         |
 | Etterfest        | 21.00-      |                                 | Mørk dress / Pent antrekk    |
 
-* Brukes kleskoder slik de er definert på https://no.wikipedia.org/wiki/Kleskode.
+\* Brukes kleskoder slik de er definert på https://no.wikipedia.org/wiki/Kleskode.
 
-## Avhanging
-Avhanglingen vil bli gjort tilgjengelig. 
+## Avhandling
+Avhandlingen vil bli gjort tilgjengelig her. 
 Link til disputasen blir også gjort tilgjengelig her.  
 
 <!---  ## Thesis
