@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Disputas 18 Mars
+title: Disputas 18. Mars
 permalink: /disputas/
 ---
 
-## Timeplan 18 Mars
+## Timeplan 18. Mars
 
 | Hva              | Tidsrom     | Hvor                       | Kleskode* |
 |------------------|-------------|---------------------------------|----------|
