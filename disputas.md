@@ -4,6 +4,8 @@ title: Disputas 18. Mars
 permalink: /disputas/
 ---
 
+Det er med stor gled og en del nervøsitet at jeg endelig kan meddele at min disputas vil finne sted. På denne nettsiden er det samlet en del informasjon som kan være nyttig for de som ønsker å på ett eller annet vis ta del i disptuasen.
+
 ## Timeplan 18. Mars
 
 | Hva              | Tidsrom     | Hvor                       | Kleskode* |
@@ -13,11 +15,11 @@ permalink: /disputas/
 | Disputasmiddag (kun inviterte) | 18.00-21.00 | Restaurant Troll, Fosenkaia 4A| Mørk dress / Smoking         |
 | Etterfest        | 21.00-      | ikke kjent  | Mørk dress / Pent antrekk    |
 
-\* Brukes kleskoder slik de er definert på https://no.wikipedia.org/wiki/Kleskode.
+\* Kleskoder, slik de brukes her, er definert her: https://no.wikipedia.org/wiki/Kleskode.
 
 ## Avhandling
-Avhandlingen vil bli gjort tilgjengelig her. 
-Link til disputasen blir også gjort tilgjengelig her.  
+Her er en [lenke til selve avhandlingen](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/Eb1DQc1oUDNFnLi_WCWjH_MB14J286cNqmO1v__yO2XCkQ?e=i4E8GV) slik som den ble sendt inn til trykk.
+Link til video stream av disputasen blir også gjort tilgjengelig etterhvert.  
 
 <!---  ## Thesis
 Here the thesis will be made available.
