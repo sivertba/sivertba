@@ -18,7 +18,7 @@ Det er med stor gled og en del nervøsitet at jeg endelig kan meddele at min dis
 \* Kleskoder, slik de brukes her, er definert her: https://no.wikipedia.org/wiki/Kleskode.
 
 ## Avhandling
-Her er en [lenke til selve avhandlingen](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/Eb1DQc1oUDNFnLi_WCWjH_MB14J286cNqmO1v__yO2XCkQ?e=i4E8GV) slik som den ble sendt inn til trykk.
+Her er en [lenke til selve avhandlingen](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/EQNC0M2Y7eNLmnZM6Z0oQzcBlwecqvoO1XKeoIULWIP2fA?e=oW5djq) slik som den ble sendt inn til trykk.
 Link til video stream av disputasen blir også gjort tilgjengelig etterhvert.  
 
 <!---  ## Thesis
