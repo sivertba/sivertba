@@ -11,9 +11,9 @@ Det er med stor gled og en del nervøsitet at jeg endelig kan meddele at min dis
 | Hva              | Tidsrom     | Hvor                       | Kleskode* |
 |------------------|-------------|---------------------------------|----------|
 | Prøveforelesning | 10.15-11.30 | Hovedbygningen Gløshaugen, Høgskoleringen 1, auditorium Disputasrommet  | Mørk dress/ Pent antrekk|
-| Disputas         | 13.15-14.45 | Hovedbygningen Gløshaugen, Høgskoleringen 1, auditorium Disputasrommet  | Mørk dress / Smoking / Galla / Bunad |
-| Disputasmiddag (kun inviterte) | 18.00-21.00 | Restaurant Troll, Fosenkaia 4A| Mørk dress / Smoking         |
-| Etterfest        | 21.00-      | ikke kjent  | Mørk dress / Pent antrekk    |
+| Disputas         | 13.15-ca 16.00 | Hovedbygningen Gløshaugen, Høgskoleringen 1, auditorium Disputasrommet  | Mørk dress / Smoking / Galla / Bunad |
+| Disputasmiddag (egen invitasjon) | 18.00-21.00 | Restaurant Troll, Fosenkaia 4A| Mørk dress / Smoking         |
+| Etterfest        | 21.00-      | ØX  | Mørk dress / Pent antrekk    |
 
 \* Kleskoder, slik de brukes her, er definert her: https://no.wikipedia.org/wiki/Kleskode.
 
@@ -22,6 +22,6 @@ Her er en [lenke til selve avhandlingen](https://studntnu-my.sharepoint.com/:b:/
 Link til video stream av disputasen blir også gjort tilgjengelig etterhvert.  
 
 <!---  ## Thesis
-Here the thesis will be made available.
+Here is a [link to the thesis](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/EQNC0M2Y7eNLmnZM6Z0oQzcBlwecqvoO1XKeoIULWIP2fA?e=oW5djq) as it was sendt to print.
 A link to the presentation used during the defence is also given here. --->
 
