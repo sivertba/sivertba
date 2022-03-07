@@ -5,7 +5,9 @@ permalink: /disputas/
 ---
 
 Det er med stor gled og en del nervøsitet at jeg endelig kan meddele at min disputas vil finne sted. På denne nettsiden er det samlet en del informasjon som kan være nyttig for de som ønsker å på ett eller annet vis ta del i disptuasen.
+
 Temaet for Prøveforelesning er "Physics of light propagation - challenges and limitations to small satellite optical sensors"
+
 Tittelen for avhandlingen er "Development of a Small Satellite with a Hyperspectral Imaging Payload and Onboard Processing for Ocean Color"
 
 
