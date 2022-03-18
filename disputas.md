@@ -31,7 +31,7 @@ Tittelen for avhandlingen er "Development of a Small Satellite with a Hyperspect
 
 # Avhandling
 Her er en [lenke til selve avhandlingen](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/EQNC0M2Y7eNLmnZM6Z0oQzcBlwecqvoO1XKeoIULWIP2fA?e=oW5djq) slik som den ble sendt inn til trykk.
-Her er en [lenke til videostream](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY1NjEzNjQtYzkxYy00ZWEwLTllNDUtOWQyMjUxNGE2NDI2%40thread.v2/0?context=%7b%22Tid%22%3a%2209a10672-822f-4467-a5ba-5bb375967c05%22%2c%22Oid%22%3a%2281836cc4-9ba0-4d6f-9cbd-96926ff0197f%22%7d) av disputasen, kanskje. Forhåpentligvis vil det også kunne bli gjort opptak
+Her er en [lenke til videostream](https://NTNU.zoom.us/j/97141045996?pwd=bzdyaDZEZFoyYkFlblkxdVdVUzRLZz09) av disputasen. Forhåpentligvis vil det også kunne bli gjort opptak
 
 <!---  ## Thesis
 Here is a [link to the thesis](https://studntnu-my.sharepoint.com/:b:/g/personal/sivertba_ntnu_no/EQNC0M2Y7eNLmnZM6Z0oQzcBlwecqvoO1XKeoIULWIP2fA?e=oW5djq) as it was sendt to print.
