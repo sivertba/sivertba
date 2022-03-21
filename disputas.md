@@ -6,9 +6,9 @@ permalink: /disputas/
 
 Det er med stor gled og en del nervøsitet at jeg endelig kan meddele at min disputas vil finne sted. På denne nettsiden er det samlet en del informasjon som kan være nyttig for de som ønsker å på ett eller annet vis ta del i disptuasen.
 
-Temaet for Prøveforelesning er "Physics of light propagation - challenges and limitations to small satellite optical sensors"
+Temaet for Prøveforelesning er "[Physics of light propagation - challenges and limitations to small satellite optical sensors](https://studntnu-my.sharepoint.com/:p:/g/personal/sivertba_ntnu_no/EWTMdsC_aXZBm06r_WHBz3IB6s2sn52geu-Y9JPdSKJ4ag?e=6WJEuI)"
 
-Tittelen for avhandlingen er "Development of a Small Satellite with a Hyperspectral Imaging Payload and Onboard Processing for Ocean Color"
+Tittelen for avhandlingen er "[Development of a Small Satellite with a Hyperspectral Imaging Payload and Onboard Processing for Ocean Color](https://studntnu-my.sharepoint.com/:p:/g/personal/sivertba_ntnu_no/EX1xVnqpdPZDnaqExOVFrWsBrr7LiPJqYE50YquLX0QAaw?e=S2eUTq)"
 
 
 # Timeplan 18. Mars
