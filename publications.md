@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 ## 2022
-- Digital engineering development in an academic cubesat project, Honoré-Livermore, Evelyn; Birkeland, Roger; Bakken, Sivert; Garrett, Joseph L; Haskins, Cecilia, Journal of Aerospace Information Systems, 2022, American Institute of Aeronautics and Astronautics, https://doi.org/10.2514/1.I010981
+- Digital engineering development in an academic cubesat project, Honoré-Livermore, Evelyn; Birkeland, Roger; Bakken, Sivert; Garrett, Joseph L; Haskins, Cecilia, Journal of Aerospace Information Systems, 2022, American Institute of Aeronautics and Astronautics, [https://doi.org/10.2514/1.I010981](https://doi.org/10.2514/1.I010981)
 
 - Software Development and Integration of a Hyperspectral Imaging Payload for HYPSO-1, Bakken, Sivert; Honoré-Livermore, Evelyn; Birkeland, Roger; Orlandić, Milica; Prentice, Elizabeth F; Garrett, Joseph L; Langer, Dennis D; Haskins, Cecilia; Johansen, Tor A, 2022 IEEE/SICE International Symposium on System Integration (SII), 2022, IEEE [https://doi.org/10.1109/SII52469.2022.9708742](https://doi.org/10.1109/SII52469.2022.9708742)
 
