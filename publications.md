@@ -22,6 +22,8 @@ permalink: /publications/
 
 - O. A.E et al., "Campaign For Hyperspectral Data Validation In North Atlantic Coastal Waters," 2022 12th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2022, pp. 1-5, [https://doi.org/10.1109/WHISPERS56178.2022.9955134](https://doi.org/10.1109/WHISPERS56178.2022.9955134)
 
+- Bakken, S., Henriksen, M. B., Birkeland, R., Langer, D. D., Oudijk, A. E., Berg, S., ... & Johansen, T. A. (2023). HYPSO-1 CubeSat: First Images and In-Orbit Characterization. Remote Sensing, 15(3), 755. [https://doi.org/10.3390/rs15030755](https://doi.org/10.3390/rs15030755)
+
 ## 2021
 - Quality Assessments of Standard Video Compression Techniques Applied to Hyperspectral Data Cubes, Oudijk, AE; Sigernes, Fred; Mulders, HCJ; Bakken, Sivert; Johansen, Tor Arne, 2021 11th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), 2021, IEEE, [https://doi.org/10.1109/WHISPERS52202.2021.9483989](https://doi.org/10.1109/WHISPERS52202.2021.9483989)
 
