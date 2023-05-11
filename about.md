@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently a PhD student in engineering cybernetics with interest in such fields as computer vision and Image Processing, Artificial Intelligence, Data Science, Big Data Analytics, Robotics and Control System Design, and more ...
+I am currently a postdoctoral reseaercher at SINTEF Ocean with interest in such fields as computer vision and Image Processing, Artificial Intelligence, Data Science, Big Data Analytics, Robotics and Control System Design, and more ...
 
 ### Current Focus
 [Currently Associated With NTNU AMOS](https://www.ntnu.edu/amos)
